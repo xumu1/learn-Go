@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa86e16d-60c6-4aac-8165-e4e412bd9dc4" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/learn-Go.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapfactory.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mapfactory.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapfactory.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,5 +87,40 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1605433421112">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom/3840.271.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605433421112" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center" timestamp="1605433421112">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.center/3840.271.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605433421112" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left" timestamp="1605433421112">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.left/3840.271.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605433421112" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right" timestamp="1605433421112">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.right/3840.271.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605433421112" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1605433421112">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/3840.271.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605433421112" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1605433421112">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/3840.271.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605433421112" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1605433421112">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/3840.271.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605433421112" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1605433421112">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/3840.271.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605433421112" />
   </component>
 </project>
